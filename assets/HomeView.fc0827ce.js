@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as s}from"./index.afe49ba8.js";const c={},n=s("h1",null,"\u9019\u662FHome",-1),a=[n];function r(_,i,l,p,d,m){return o(),t("main",null,a)}const u=e(c,[["render",r]]);export{u as default};
